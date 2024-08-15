@@ -1,0 +1,19 @@
+{
+  "name": "pnpm",
+  "version": "1.0.0",
+  "description": "learning pnpm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarodanesh/pnpm.git"
+  },
+  "author": "Danesh Iqbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clarodanesh/pnpm/issues"
+  },
+  "homepage": "https://github.com/clarodanesh/pnpm#readme"
+}

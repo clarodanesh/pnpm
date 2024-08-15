@@ -1,0 +1,1 @@
+Learning pnpm to apply it to monorepo usage in the future.
